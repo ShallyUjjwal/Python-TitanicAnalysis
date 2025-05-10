@@ -137,12 +137,17 @@ Key features include:
 
 ---
 
-## 💡 Overall Insights
+## 🎯 Key Visual Insights Summary
 
-- Gender, class, and age were **key determinants** of survival.
-- Socioeconomic status (represented by class/fare) strongly influenced outcomes.
-- Data cleaning is crucial: missing values are non-trivial and impact analysis.
-- Visualizations reveal both **expected patterns** (women/children survive more) and **complex relationships** (like family size effects).
+🟢 **Women** had much higher survival rates across all classes.
+
+🔵 **First-class passengers** had the highest survival probability (over 60%).
+
+🟠 **Small families** (2–4 members) showed better survival than solo travelers or large families.
+
+🟡 **Fare and age** have clusters that roughly separate survival likelihoods.
+
+🔴 The **embarkation point** appears linked to ticket fare distributions.
 
 ---
 
