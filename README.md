@@ -50,7 +50,7 @@ Key features include:
 - **Insight:**
   - Significant missing data in `age`, `deck`, and `embarked`.
   - Highlights the importance of **data cleaning and imputation** before deeper analysis.
-<img width="354" alt="image" src="https://github.com/user-attachments/assets/3bb3b8a8-9ab3-46f2-969d-fb21af914847" />
+    <img width="354" alt="image" src="https://github.com/user-attachments/assets/3bb3b8a8-9ab3-46f2-969d-fb21af914847" />
 
 ---
 
@@ -61,7 +61,7 @@ Key features include:
   - **Females had a much higher survival rate** than males across all classes.
   - **1st class passengers** were more likely to survive than 2nd and 3rd class.
   - Demonstrates the **influence of both gender and socioeconomic status.**
-<img width="365" alt="image" src="https://github.com/user-attachments/assets/3d301c79-3d00-466c-bb22-7e540bba8fdb" />
+    <img width="365" alt="image" src="https://github.com/user-attachments/assets/3d301c79-3d00-466c-bb22-7e540bba8fdb" />
 
 
 ---
@@ -73,7 +73,7 @@ Key features include:
   - **Young children (under 10)** had a noticeably higher survival rate.
   - Non-survivors covered a broader age range, especially among males.
   - This confirms **age and gender as strong survival factors.**
-<img width="360" alt="image" src="https://github.com/user-attachments/assets/cefbdc5f-3c0c-415c-8ae2-85c21c33619d" />
+    <img width="360" alt="image" src="https://github.com/user-attachments/assets/cefbdc5f-3c0c-415c-8ae2-85c21c33619d" />
 
 
 ---
@@ -85,7 +85,7 @@ Key features include:
   - A strong **correlation between fare and class** (higher class = higher fare).
   - Survivors were **clustered in higher classes with higher fares.**
   - Multivariate patterns emerge, confirming multiple factors affected survival.
-<img width="428" alt="image" src="https://github.com/user-attachments/assets/fd8c6258-c01c-4055-8006-3c5a8d4382a2" />
+    <img width="428" alt="image" src="https://github.com/user-attachments/assets/fd8c6258-c01c-4055-8006-3c5a8d4382a2" />
 
 
 ---
@@ -97,7 +97,7 @@ Key features include:
   - **Medium-sized families (2–4 members)** had better survival rates.
   - Very large or solo passengers had lower survival odds.
   - Gender gap is visible: **females consistently had higher survival rates.**
-<img width="301" alt="image" src="https://github.com/user-attachments/assets/ec559e05-0a2e-4c93-ab0f-50c27ff385e8" />
+    <img width="301" alt="image" src="https://github.com/user-attachments/assets/ec559e05-0a2e-4c93-ab0f-50c27ff385e8" />
 
 ---
 
@@ -108,7 +108,7 @@ Key features include:
   - Positive correlation between **fare and survival**.
   - **Pclass and survival** are inversely correlated.
   - Family size has minimal direct correlation but combined with other factors, may still matter.
-<img width="312" alt="image" src="https://github.com/user-attachments/assets/9a517cdd-f0b2-4b26-8668-b2a47a94fb2a" />
+    <img width="312" alt="image" src="https://github.com/user-attachments/assets/9a517cdd-f0b2-4b26-8668-b2a47a94fb2a" />
 
 
 ---
@@ -119,7 +119,7 @@ Key features include:
 - **Insight:**
   - Passengers embarking from **Cherbourg (C)** paid higher fares and had a higher survival rate.
   - Fare variability was **largest in Cherbourg**, indicating wealth disparity within embarkation points.
-<img width="300" alt="image" src="https://github.com/user-attachments/assets/fb6b8d84-ec5c-4592-bcb5-dbf02704f123" />
+    <img width="300" alt="image" src="https://github.com/user-attachments/assets/fb6b8d84-ec5c-4592-bcb5-dbf02704f123" />
 
 
 ---
@@ -131,7 +131,7 @@ Key features include:
   - Three distinct clusters emerge based on age and fare.
   - Clusters reflect different **passenger groups (e.g., young/low fare, older/high fare)**.
   - Adds an **unsupervised learning dimension**, showing natural groupings in the data.
-<img width="301" alt="image" src="https://github.com/user-attachments/assets/c9641f16-5975-47df-8860-f152e397839f" />
+    <img width="301" alt="image" src="https://github.com/user-attachments/assets/c9641f16-5975-47df-8860-f152e397839f" />
 
 
 
